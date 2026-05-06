@@ -133,10 +133,7 @@ To run the notebook interactively in Google Colab:
 
 1. Open the notebook link above
 2. Click the **“Open in Colab”** button at the top of the notebook
-
-OR open directly here:
-
-👉 <img width="150" height="41" alt="image" src="https://github.com/user-attachments/assets/f35997c7-0454-48d3-a6c5-7479133a8c83" />
+ <img width="150" height="41" alt="image" src="https://github.com/user-attachments/assets/f35997c7-0454-48d3-a6c5-7479133a8c83" />
 
 
 ---
