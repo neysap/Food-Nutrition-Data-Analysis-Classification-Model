@@ -123,7 +123,7 @@ Identified the strongest contributors to Nutri-Score predictions, including:
 
 Recruiters and reviewers can access the full notebook here:
 
-👉
+👉 https://github.com/neysap/Food-Nutrition-Data-Analysis-Classification-Model/blob/main/World_Food_Facts.ipynb
 
 ---
 
@@ -136,7 +136,7 @@ To run the notebook interactively in Google Colab:
 
 OR open directly here:
 
-👉<img width="150" height="41" alt="image" src="https://github.com/user-attachments/assets/f35997c7-0454-48d3-a6c5-7479133a8c83" />
+👉 <img width="150" height="41" alt="image" src="https://github.com/user-attachments/assets/f35997c7-0454-48d3-a6c5-7479133a8c83" />
 
 
 ---
